@@ -1,7 +1,5 @@
-# Improving Imbalanced Classification by Anomaly Detection
-=======
 [![DOI](https://zenodo.org/badge/405991909.svg)](https://zenodo.org/badge/latestdoi/405991909)
-
+# Improving Imbalanced Classification by Anomaly Detection
 This repository contains the code for introducing two additional attributes to imbalanced datasets and thus improving the imbalanced classification. 
 
 ## Introduction
